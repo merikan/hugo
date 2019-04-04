@@ -160,6 +160,9 @@ googleAnalytics ("")
 hasCJKLanguage (false)
 : If true, auto-detect Chinese/Japanese/Korean Languages in the content. This will make `.Summary` and `.WordCount` behave correctly for CJK languages.
 
+ignoreFiles
+: See [Ignore Files When Rendering](#ignore-files-when-rendering).
+
 imaging
 : See [Image Processing Config](/content-management/image-processing/#image-processing-config).
 
